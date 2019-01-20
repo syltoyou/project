@@ -1,6 +1,2 @@
 # project
-testrepository
-test
-test
-test
-test
+add readme.md
